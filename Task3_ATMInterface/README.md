@@ -1,5 +1,4 @@
 # 🏧 ATM Interface – Java Console Application
-
 An interactive and secure Java-based ATM system designed to mimic real-world ATM functionalities. This console application allows users to log in using credentials and perform banking operations like withdrawals, deposits, transfers, and viewing transaction history. 💳
 
 ## ✨ Features
