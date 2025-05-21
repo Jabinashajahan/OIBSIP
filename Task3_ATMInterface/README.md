@@ -14,6 +14,7 @@ An interactive and secure Java-based ATM system designed to mimic real-world ATM
 📋 Transaction History – View detailed logs of all your transactions.
 
 🧾 Balance Enquiry – Check your current account balance.
+
 ---
 
 ## 🧩 Modules
