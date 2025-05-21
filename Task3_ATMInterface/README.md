@@ -14,6 +14,7 @@ An interactive and secure Java-based ATM system designed to mimic real-world ATM
 📋 Transaction History – View detailed logs of all your transactions.
 
 🧾 Balance Enquiry – Check your current account balance.
+---
 
 ## 🧩 Modules
 🔐 Login Authentication – Verifies User ID and PIN.
@@ -28,6 +29,7 @@ An interactive and secure Java-based ATM system designed to mimic real-world ATM
 
 🚪 Exit Option – Gracefully exits the application.
 
+---
 ## 🛠️ Technologies Used
 ☕ Java
 
@@ -37,6 +39,7 @@ An interactive and secure Java-based ATM system designed to mimic real-world ATM
 
 🧠 Object-Oriented Programming (OOP)
 
+---
 ## 🚀 How to Run
 📥 Clone or download this repository.
 
@@ -62,6 +65,7 @@ View Transaction History
 
 Exit
 
+---
 ## 💻 Sample Usage
 
 Enter User ID: user123
@@ -94,6 +98,7 @@ Thank you for using ATM!
 
 🪪 Multi-user support with data storage
 
+---
 ## 🙋‍♀️ About Me
 Hello! I'm a passionate Computer Science student 👩‍💻 who enjoys building real-world applications with Java. This ATM Interface project gave me the opportunity to strengthen my OOP knowledge and simulate real banking operations. 🚀
 
