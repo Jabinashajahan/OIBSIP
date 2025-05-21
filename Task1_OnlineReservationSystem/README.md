@@ -66,18 +66,20 @@ Train No: 22691
 Train Name: Shatabdi Express
 Ticket booked! PNR: 1🌱 Future Enhancements
 
-🙋‍♀️ About Me
+---
+
+## 🙋‍♀️ About Me
 Hi! I'm a passionate Computer Science student 👩‍💻 with a love for building real-world projects using Java and other technologies. I created this project as part of my learning journey and to strengthen my programming fundamentals.
 
-🌟 Credits
+## 🌟 Credits
 This project is a part of the Oasis Infobyte Internship 💼, where I got the opportunity to apply my Java skills and improve my understanding of console-based applications. Thanks to Oasis for this amazing learning experience! 🙏
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License. Feel free to use, modify, and share it! 🆓
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are always welcome! Fork the repository, make your changes, and open a pull request. Let's build better software together! 🚀
 
-👩‍💻 Happy Coding!
+## 👩‍💻 Happy Coding!
 Keep learning, keep building, and keep coding! 💡✨
 Thank you for visiting this repository! 😊
