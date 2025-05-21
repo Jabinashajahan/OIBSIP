@@ -2,7 +2,6 @@
 
 A simple and user-friendly **Java console application** for booking and cancelling train tickets. This project simulates an online reservation system where users can securely log in, reserve tickets, view bookings, or cancel them — all in one place! 🧾
 
----
 
 ## ✨ Features
 
@@ -12,7 +11,6 @@ A simple and user-friendly **Java console application** for booking and cancelli
 - 📋 **View Tickets** – View all booked tickets in the current session.
 - 🆔 **Unique PNR Generation** – Each ticket is assigned a unique PNR (starting from 1000).
 
----
 
 ## 🧩 Modules
 
@@ -21,7 +19,6 @@ A simple and user-friendly **Java console application** for booking and cancelli
 3. 🚫 **Cancellation Form** – Cancel tickets by entering your PNR.
 4. 📄 **Ticket Viewer** – View all the tickets you’ve booked.
 
----
 
 ## 🛠️ Technologies Used
 
@@ -29,7 +26,6 @@ A simple and user-friendly **Java console application** for booking and cancelli
 - 📚 Java Collections (`ArrayList`)
 - 🧠 Object-Oriented Programming (OOP)
 
----
 
 ## 🚀 How to Run
 
@@ -44,7 +40,6 @@ A simple and user-friendly **Java console application** for booking and cancelli
    - View all booked tickets
    - Exit the application
 
----
 
 ## 💻 Sample Usage
 
@@ -66,7 +61,6 @@ Train No: 22691
 Train Name: Shatabdi Express
 Ticket booked! PNR: 1🌱 Future Enhancements
 
----
 
 ## 🙋‍♀️ About Me
 Hi! I'm a passionate Computer Science student 👩‍💻 with a love for building real-world projects using Java and other technologies. I created this project as part of my learning journey and to strengthen my programming fundamentals.
