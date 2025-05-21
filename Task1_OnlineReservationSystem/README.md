@@ -48,7 +48,6 @@ A simple and user-friendly **Java console application** for booking and cancelli
 
 ## 💻 Sample Usage
 
-```plaintext
 Enter username: user
 Enter password: pass
 Login successful! ✅
